@@ -103,6 +103,8 @@ celerybeat.pid
 
 # Environments
 config.py
+.ipynb_checkpoints/
+__pycache__/
 .env
 .venv
 env/
